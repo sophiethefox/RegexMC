@@ -8,4 +8,9 @@
   * Email: regexmc.noirlskills@gmail.com
   * Discord: [Regex#1028](https://discord.com/users/202666531111436288)
 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=regexmc&show_icons=true&theme=tokyonight)
+
+![Languages I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=regexmc&layout=compact&theme=tokyonight)
+
 *he/him*
