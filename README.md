@@ -13,4 +13,4 @@
 
 ![Languages I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=regexmc&layout=compact&theme=tokyonight)
 
-*any pronouns*
+*she/her*
