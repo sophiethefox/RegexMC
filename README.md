@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on developing [an extension](https://github.com/RegexMC/CustomItemsAnilist) for [Anilist](https://anilist.co) to allow adding custom entries.
+🔭 I’m currently working on developing a helper for scoring items on anilist
 
 🌱 I’m currently learning Typescript and React
 
